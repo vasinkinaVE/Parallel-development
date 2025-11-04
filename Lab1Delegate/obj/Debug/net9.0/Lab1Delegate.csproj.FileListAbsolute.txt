@@ -1,0 +1,14 @@
+C:\Users\пк\Lab1Delegate\bin\Debug\net9.0\Lab1Delegate.exe
+C:\Users\пк\Lab1Delegate\bin\Debug\net9.0\Lab1Delegate.deps.json
+C:\Users\пк\Lab1Delegate\bin\Debug\net9.0\Lab1Delegate.runtimeconfig.json
+C:\Users\пк\Lab1Delegate\bin\Debug\net9.0\Lab1Delegate.dll
+C:\Users\пк\Lab1Delegate\bin\Debug\net9.0\Lab1Delegate.pdb
+C:\Users\пк\Lab1Delegate\obj\Debug\net9.0\Lab1Delegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\пк\Lab1Delegate\obj\Debug\net9.0\Lab1Delegate.AssemblyInfoInputs.cache
+C:\Users\пк\Lab1Delegate\obj\Debug\net9.0\Lab1Delegate.AssemblyInfo.cs
+C:\Users\пк\Lab1Delegate\obj\Debug\net9.0\Lab1Delegate.csproj.CoreCompileInputs.cache
+C:\Users\пк\Lab1Delegate\obj\Debug\net9.0\Lab1Delegate.dll
+C:\Users\пк\Lab1Delegate\obj\Debug\net9.0\refint\Lab1Delegate.dll
+C:\Users\пк\Lab1Delegate\obj\Debug\net9.0\Lab1Delegate.pdb
+C:\Users\пк\Lab1Delegate\obj\Debug\net9.0\Lab1Delegate.genruntimeconfig.cache
+C:\Users\пк\Lab1Delegate\obj\Debug\net9.0\ref\Lab1Delegate.dll
