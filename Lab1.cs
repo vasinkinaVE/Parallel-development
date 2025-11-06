@@ -77,4 +77,5 @@ namespace LabWorkDelegates
             Console.ReadKey();
         }
     }
+
 }
